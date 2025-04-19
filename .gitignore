@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.claude
+*.db
+.env
+CLAUDE.md
+*.log
+.vscode/
+*.sqlite
+.DS_Store
+venv/
+*.egg-info/
+dist/
+build/
